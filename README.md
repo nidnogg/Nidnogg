@@ -1,10 +1,11 @@
 # Hi there 👋 let me introduce myself
 
 My name is Henrique <br/>
-Born and Raised in Brazil <br/>
+Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; Graduating in Computer Science At [UFRJ](https://ufrj.br/). <br/>
 
-i am a software developer.
+Help me out with a cup of [Ko-fi](https://ko-fi.com/nidnogg) or be my [Patreon](https://patreon.com/nidnogg)
+I am a web developer studying software in general, here to learn from the best and share some of what I learned.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
