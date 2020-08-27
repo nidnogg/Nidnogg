@@ -4,7 +4,8 @@ My name is Henrique <br/>
 Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; Graduating in Computer Science At [UFRJ](https://ufrj.br/). <br/>
 
-Help me out with a cup of [Ko-fi](https://ko-fi.com/nidnogg) or be my [Patreon](https://patreon.com/nidnogg)
+Help me out with a cup of [Ko-fi](https://ko-fi.com/nidnogg) or be my [Patreon.](https://patreon.com/nidnogg)
+
 I am a web developer studying software in general, here to learn from the best and share some of what I learned.
 
 
