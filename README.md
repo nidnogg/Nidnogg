@@ -1,13 +1,13 @@
 # Hi there 👋 let me introduce myself
 
-My name is Xiao <br/>
+My name is Henrique <br/>
 Born and Raised in Brazil <br/>
 🎓 &nbsp; Graduating in Computer Science At [UFRJ](https://ufrj.br/). <br/>
 
-I have had the opportunity to work as a software/web developer, architect, analyst and Infosec. I am used to making decisions under pressure and dealing with conflicts in the team, in the company and with customers, as well communicating with the team to have a better organization.
+i am a software developer.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xiao-yong-kong-680632127/)](https://www.linkedin.com/in/xiao-yong-kong-680632127/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:xiaoykong06@gmail.com)](mailto:xiaoykong06@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
 
 ---
 
