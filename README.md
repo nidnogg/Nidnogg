@@ -55,5 +55,4 @@ I am a web developer studying software in general, here to learn from the best a
 
 ---
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1218762202&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=1218762202&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
