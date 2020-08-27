@@ -1,5 +1,6 @@
-# Hi there 👋 let me introduce myself
+# the way of nidnogg :coffee:
 
+![cover](https://i.imgur.com/3TE76xy.png)
 My name is Henrique <br/>
 Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; Graduating in Computer Science At [UFRJ](https://ufrj.br/). <br/>
