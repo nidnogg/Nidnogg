@@ -6,10 +6,8 @@ Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; I'm studying Computer Science at the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)). <br/>
 
 Feel free to help me out with a cup of [Ko-fi](https://ko-fi.com/nidnogg) :coffee: or be my [Patreon](https://patreon.com/nidnogg). I showcase some of my art there! 
-### Such as [El Salvador Daki](https://www.patreon.com/posts/43078603), made in 2020 using Adobe Illustrator:
-![cover](https://i.imgur.com/NBrdrv4.jpeg)
 
-I am a web developer studying software in general, here to learn from the best and share some of what I learned.
+I am a web developer studying software in general, here to learn from the best
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
