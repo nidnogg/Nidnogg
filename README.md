@@ -4,7 +4,7 @@
 What up! I'm nidnogg, AKA Henrique V. de Toledo. <br/>
 Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; I'm studying Computer Science at the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)). <br/>
-Currently working at the Ludology, Simulation and Engineering lab from COPPE, [LUDES](https://ludes.cos.ufrj.br/pt/ludes/)
+Currently working at the Ludology, Simulation and Engineering lab from COPPE, [LUDES](https://ludes.cos.ufrj.br/pt/ludes/) <br />
 I'm also a web developer studying software in general, here to learn from the best.
 
 
