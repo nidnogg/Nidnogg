@@ -1,10 +1,9 @@
 # the way of nidnogg :coffee:
 
-![cover](https://i.imgur.com/3TE76xy.png)
-What up! I'm nidnogg, AKA Henrique V. de Toledo. <br/>
+I'm nidnogg, AKA Henrique V. de Toledo. <br/>
 Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; I'm studying Computer Science at the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)). <br/>
-Currently working at the Ludology, Simulation and Engineering lab from COPPE, [LUDES](https://ludes.cos.ufrj.br/pt/ludes/) <br />
+Currently working at [VenhaPraNuvem](https://venhapranuvem.com.br/) <br />
 I'm also a web developer studying software in general, here to learn from the best.
 
 
