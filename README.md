@@ -1,6 +1,6 @@
 # the way of nidnogg :coffee:
 
-I'm nidnogg, AKA Henrique V. de Toledo. <br/>
+Hi, I'm Henrique (aka nidnogg) <br/>
 Born and Raised in Rio de Janeiro <br/>
 🎓 &nbsp; I'm studying Computer Science at the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)). <br/>
 Currently working at [VenhaPraNuvem](https://venhapranuvem.com.br/) <br />
