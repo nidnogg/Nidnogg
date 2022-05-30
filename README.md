@@ -39,16 +39,11 @@ I'm also a web developer studying software in general, here to learn from the be
 ![PHP](https://img.shields.io/badge/-PHP-8993c1?style=flat&logoColor=white&logo=php)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-orange?style=flat&logoColor=white&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
-
 ![MySQL](https://img.shields.io/badge/-Mysql-orange?style=flat&logoColor=white&logo=mysql)
-
 ![React](https://img.shields.io/badge/-React-darkgreen?style=flat&logoColor=white&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-darkred?style=flat&logoColor=white&logo=angular)
 ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
-
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=flat&logo=shellscript)
-
-![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows)
-![Wix](https://img.shields.io/badge/-Wix-ffdd19?style=flat&logoColor=white&logo=wix)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
 
 ---
