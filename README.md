@@ -1,4 +1,4 @@
-# the way of nidnogg :coffee:
+# nidnogg :coffee:
 
 Hi, I'm Henrique (aka nidnogg) <br/>
 Born and Raised in Rio de Janeiro <br/>
