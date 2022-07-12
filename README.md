@@ -2,7 +2,6 @@
 
 Hi, I'm Henrique (aka nidnogg) <br/>
 Born and Raised in Rio de Janeiro <br/>
-🎓 &nbsp; I'm studying Computer Science at the Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)). <br/>
 Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 
 
