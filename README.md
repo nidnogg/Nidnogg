@@ -1,30 +1,22 @@
-<center>
-# nidnogg :coffee:
+<div align="center">
+<h1> nidnogg :coffee: </h1>
 
-Hi, I'm Henrique (aka nidnogg) <br/>
-Based in Rio de Janeiro <br/>
+Hi, I'm Henrique (aka nidnogg)! <br/>
 Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
-</center>
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
+</div>
 
 
-### 📊 My Stats:
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Nidnogg&theme=dracula" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidnogg&hide=html&layout=compact&theme=dracula" /></td>
-  </tr>  
-</table>
-</center>
+### 📊 Stats:
+<div>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nidnogg&theme=gruvbox&count_private=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidnogg&hide=html&layout=compact&theme=gruvbox&count_private=true" />
+</div>
 
-
----
-
-### 💻 &nbsp; My skills: <br/> <br/> 
+### 💻 &nbsp; Skills: <br/> <br/> 
 ![AWS](https://img.shields.io/badge/-AWS%20S3-green?style=flat&logoColor=amazon&logo=amazon)
 ![C](https://img.shields.io/badge/-C-brown?style=flat&logoColor=white&logo=c)
 ![C++](https://img.shields.io/badge/-C++-brown?style=flat&logoColor=white&logo=c%2B%2B)
@@ -43,6 +35,10 @@ Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=flat&logo=shellscript)
 
----
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=true" />
+</div>
+<!-- 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=true)](https://github.com/kittinan/spotify-github-profile) -->
+
