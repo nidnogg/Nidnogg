@@ -12,8 +12,8 @@ Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 
 ### 📊 Stats:
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nidnogg&theme=gruvbox&count_private=true" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidnogg&hide=html&layout=compact&theme=gruvbox&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nidnogg&theme=gruvbox&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidnogg&hide=html&layout=compact&theme=gruvbox&count_private=true" />
 </div>
 
 ### 💻 &nbsp; Skills: <br/> <br/> 
