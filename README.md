@@ -1,3 +1,4 @@
+<div align="center>
 # nidnogg :coffee:
 
 Hi, I'm Henrique (aka nidnogg) <br/>
@@ -6,7 +7,7 @@ Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
-
+</div>
 ---
 
 
@@ -25,7 +26,6 @@ Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 
 ### 💻 &nbsp; My skills: <br/> <br/> 
 ![AWS](https://img.shields.io/badge/-AWS%20S3-green?style=flat&logoColor=amazon&logo=amazon)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-ff0d00?style=flat&logoColor=white&logo=bootstrap)
 ![C](https://img.shields.io/badge/-C-brown?style=flat&logoColor=white&logo=c)
 ![C++](https://img.shields.io/badge/-C++-brown?style=flat&logoColor=white&logo=c%2B%2B)
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
@@ -42,7 +42,6 @@ Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 ![Angular](https://img.shields.io/badge/-Angular-darkred?style=flat&logoColor=white&logo=angular)
 ![React-Native](https://img.shields.io/badge/-React_Native-19a7ff?style=flat&logoColor=white&logo=react)
 ![ShellScript](https://img.shields.io/badge/-ShellScript-000?style=flat&logo=shellscript)
-![Wordpress](https://img.shields.io/badge/-Wordpress-ffdd19?style=flat&logoColor=white&logo=wordpress)
 
 ---
 
