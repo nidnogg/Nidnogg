@@ -1,5 +1,3 @@
-<div align="center'>
-
 # nidnogg :coffee:
 
 Hi, I'm Henrique (aka nidnogg) <br/>
@@ -8,8 +6,6 @@ Currently working at [Fetchly Labs](https://fetch.ly/) <br />
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/)](https://www.linkedin.com/in/henrique-vermelho-de-toledo-a087b0152/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:the.nidnogg@gmail.com)](mailto:the.nidnogg@gmail.com) 
-
-</div> 
 
 ---
 
