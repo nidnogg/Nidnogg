@@ -15,7 +15,7 @@ Mostly interested in Rust 🦀 and Golang
 </div>
  -->
 <div align="right">
-  <a href="https://open.spotify.com/user/the_zurin?si=7d754e438abb499e"><img src="https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=true" /></a>
+  <a href="https://open.spotify.com/user/the_zurin?si=7d754e438abb499e"><img src="https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=false" /></a>
 </div>
 <!-- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the_zurin&cover_image=true)](https://github.com/kittinan/spotify-github-profile) -->
