@@ -1,11 +1,17 @@
 <div align="right">
 <h1> nidnogg 🧗 </h1>
 
-Hi, I'm Henrique (aka nidnogg)! <br/>
-Mostly interested in Rust 🦀 and Golang. Also on [iNaturalist](https://www.inaturalist.org/observations?place_id=any&user_id=nidnogg&verifiable=any)
+hi, I'm Henrique (aka nidnogg)! <br/>
+you can probably find me climbing, running, diving, and caving as well.
 
+tech wise, I'm interested in Rust 🦀 and Golang.
+
+### socials 🗯️
+[![Hacker News](https://img.shields.io/badge/Hacker_News-%23FD6600.svg?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=nidnogg)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidnogg)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nidnogg_)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%231D99A3.svg?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nidnogg.bsky.social)
+[![iNaturalist](https://img.shields.io/badge/iNaturalist-%2374AC00.svg?style=for-the-badge&logo=iNaturalist&logoColor=white)](https://www.inaturalist.org/observations?place_id=any&user_id=nidnogg&verifiable=any)
+
 </div>
 
 <!-- <div align="right">
