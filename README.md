@@ -2,7 +2,7 @@
 <h1> nidnogg 🧗 </h1>
 
 hi, I'm Henrique (aka nidnogg)! <br/>
-you can probably find me climbing, running, diving, and caving as well.
+you can probably find me [climbing](https://www.youtube.com/@nidnogg), running, diving, and caving as well.
 also at **[nid.nogg.dev](https://nid.nogg.dev)**
 
 tech wise, I'm interested in Rust 🦀 and Golang.
